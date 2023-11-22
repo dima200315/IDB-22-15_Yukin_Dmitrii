@@ -27,5 +27,4 @@ public class button : MonoBehaviour
             CUBE.SetActive(true);
         }
     }
-    
 }
